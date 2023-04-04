@@ -1,0 +1,93 @@
+
+Node.js: extract all internal links from a remote page
+https://gabrieleromanato.name/nodejs-extract-all-internal-links-from-a-remote-page
+
+
+How to run html file on localhost
+https://devpractical.com/host-a-html-page-on-localhost/
+
+
+How to get all Links from a Webpage using Node.js and Cheerio
+https://www.kindacode.com/article/how-to-get-all-links-from-a-webpage-using-node-js/#The_Example_Project
+
+
+2)In CMD, run the command npm install "http-server -g"
+
+3) Navigate to the specific path of your file folder in CMD, and run the command http-server ("http-server C:\htmlTemp")
+
+4) Go to your browser and type localhost:8080. Your Application should run (Ex: "http://127.0.0.1:8080/mac_bookmarks_02_03_2023.html")
+
+5) Even faster for one-time run is npx http-server from the folder you want to share. To add CORS you can run npx http-server --cors. 
+
+6) To add CORS you can run:
+npx http-server --cors
+
+
+npm cheerio - https://www.npmjs.com/package/cheerio
+npm got - https://www.npmjs.com/package/got
+
+
+
+------
+How to get all Links from a Webpage using Node.js and Cheerio
+https://www.kindacode.com/article/how-to-get-all-links-from-a-webpage-using-node-js/#The_Example_Project
+
+Top 5 best Node.js Open Source Headless CMS in 2023
+https://www.kindacode.com/article/top-node-js-open-source-headless-cms/
+
+Using Axios to download images and videos in Node.js
+https://www.kindacode.com/article/using-axios-to-download-images-and-videos-in-node-js/
+
+Node.js: Get File Name and Extension from Path/URL
+https://www.kindacode.com/article/node-js-get-file-name-and-extension-from-path-url/
+
+Node.js: Reading content from PDF and CSV files
+https://www.kindacode.com/article/reading-content-from-pdf-and-csv-files-using-node-js/
+
+Node.js: Get domain, hostname, and protocol from a URL
+https://www.kindacode.com/article/node-js-get-domain-hostname-and-protocol-from-a-url/
+
+Nodemon: Automatically Restart a Node.js App on Crash
+https://www.kindacode.com/snippet/nodemon-automatically-restart-a-node-js-app-on-crash/
+
+2 Ways to Set Default Time Zone in Node.js
+https://www.kindacode.com/article/2-ways-to-set-default-time-zone-in-node-js/
+
+Node.js: How to Compress a File using Gzip format
+https://www.kindacode.com/snippet/node-js-how-to-compress-a-file-using-gzip-format/
+
+4 Ways to Read JSON Files in Node.js
+https://www.kindacode.com/article/ways-to-read-json-files-in-node-js/
+
+Node.js: Use Async Imports (Dynamic Imports) with ES Modules
+https://www.kindacode.com/article/node-js-use-async-imports-dynamic-imports-with-es-modules/
+
+
+Node + Mongoose + TypeScript: Defining Schemas and Models
+https://www.kindacode.com/article/node-mongoose-typescript-defining-schemas-and-models/
+
+Node.js: extract all internal links from a remote page
+https://gabrieleromanato.name/nodejs-extract-all-internal-links-from-a-remote-page
+
+
+How to run html file on localhost
+https://devpractical.com/host-a-html-page-on-localhost/
+
+
+
+2)In CMD, run the command npm install "http-server -g"
+
+3) Navigate to the specific path of your file folder in CMD, and run the command http-server ("http-server C:\htmlTemp")
+
+4) Go to your browser and type localhost:8080. Your Application should run (Ex: "http://127.0.0.1:8080/mac_bookmarks_02_03_2023.html")
+
+5) Even faster for one-time run is npx http-server from the folder you want to share. To add CORS you can run npx http-server --cors. 
+
+6) To add CORS you can run:
+npx http-server --cors
+
+How to convert JSON to CSV in Node.js
+https://attacomsian.com/blog/nodejs-convert-json-to-csv
+
+Bulk Import a CSV File Into MongoDB Using Mongoose With Node.js
+https://code.tutsplus.com/articles/bulk-import-a-csv-file-into-mongodb-using-mongoose-with-nodejs--cms-29574
